@@ -1,3 +1,5 @@
+# Forked from Google Assistant SDK, The idea is to extend this
+
 # Google Assistant SDK for Python
 
 This repository contains the [Python][python] packages for the [Google Assistant SDK][google-assistant-sdk].
